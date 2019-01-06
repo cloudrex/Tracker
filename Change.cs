@@ -1,5 +1,5 @@
 namespace Tracker {
-    public struct Change {
+    public struct Delta {
         public int Start { get; set; }
 
         public string Content { get; set; }
